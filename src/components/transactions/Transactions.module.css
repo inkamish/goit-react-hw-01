@@ -1,0 +1,26 @@
+.table {
+  width: 100%;
+  margin: 40px auto;
+  background-color: #ecf8ff;
+  max-width: 85%;
+}
+
+.thead {
+  background-color: #000000;
+  color: #ffffff;
+}
+
+.th {
+  padding: 16px 0;
+  text-transform: uppercase;
+  font-weight: 400;
+}
+
+.td {
+  padding: 16px;
+  text-align-last: center;
+}
+
+.tr:nth-of-type(even) {
+  background-color: #cdecff;
+}

@@ -1,0 +1,17 @@
+.container {
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
+}
+
+.friendsList {
+  display: flex;
+  gap: 24px;
+}
+
+.friendsItem {
+  padding: 10px;
+  border: 1px solid #858585;
+  border-radius: 3px;
+  text-align: center;
+}
